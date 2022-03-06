@@ -1,5 +1,5 @@
 # Image-Classification-using-CNN-for-Imagenette-Imagewoof-detaset
-Here I tried to classify two data set by Cpnvolution Newral Network (CNN) using Keras &amp; tenser flow: 
+In this project we tried to classify two data set by Cpnvolution Newral Network (CNN) using Keras &amp; tenser flow: 
 10 class problem, two different data sets, to be found at https:// github.com/fastai/imagenette
 Imagenette : 10 classes, fairly simple to be separated from the 1000 class imagenet challenge
 Imagewoof : 10 classes from imagenet depicting different dog breeds
